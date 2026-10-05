@@ -29,8 +29,9 @@ PC" the first time. Choose **More info**, then **Run anyway**.
 
 ## Updates
 
-The tool checks this repository once when it starts and says in its header
-when a newer version is out. It never downloads anything by itself.
+The tool checks this repository once when it starts. When a newer version is
+out, it opens a window saying what is new, with a link here (1.19.0 shows a
+link in its header instead). It never downloads anything by itself.
 
 ## Support
 
